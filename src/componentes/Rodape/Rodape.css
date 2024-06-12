@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #6278F7;
+    padding: 80px;
+    color: #FFF;
+}
+
+.footer-redes {
+    display: flex;
+    gap: 32px;
+}
